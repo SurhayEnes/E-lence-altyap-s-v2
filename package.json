@@ -1,0 +1,24 @@
+{
+  "name": "narcoscode",
+  "version": "0.0.1",
+  "description": "",
+  "main": "narcos.js",
+  "scripts": {
+    "test": "node narcos.js"
+  },
+  "author": "NarcosCode",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "common-tags": "^1.8.0",
+    "crypto": "^1.0.1",
+    "discord.js": "^12.5.1",
+    "fs": "0.0.1-security",
+    "jimp": "^0.16.1",
+    "moment": "^2.29.1",
+    "narcos-db": "^4.0.10",
+    "node-superfetch": "^0.1.11",
+    "request": "^2.88.2",
+    "weather-js": "^2.0.0"
+  }
+}
